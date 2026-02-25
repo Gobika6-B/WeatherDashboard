@@ -1,16 +1,19 @@
-# React + Vite
+Weather Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Weather Dashboard is a responsive and interactive web application that enables users to search for any city and instantly access real-time weather information. The application integrates with a weather API to fetch live atmospheric data and presents essential details such as temperature, humidity, wind speed, and overall weather conditions in a clean and intuitive interface. It is designed to provide quick, accurate, and easy-to-understand weather insights for everyday use.
 
-Currently, two official plugins are available:
+This project highlights modern frontend development practices using React and Vite, including API integration, asynchronous data fetching, and effective state management. With a structured component-based architecture and responsive design principles, the application demonstrates the ability to build scalable, user-friendly, and performance-optimized web solutions suitable for real-world applications.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1887" height="902" alt="image" src="https://github.com/user-attachments/assets/5b0119c8-7098-4155-8df4-5e064c84eb0c" />
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1875" height="835" alt="image" src="https://github.com/user-attachments/assets/dde2e650-8798-4be4-9c7c-a8c54ecf1e2c" />
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1860" height="878" alt="image" src="https://github.com/user-attachments/assets/fdaa2799-6303-423e-8278-02155ef37894" />
+
+
+<img width="1870" height="897" alt="image" src="https://github.com/user-attachments/assets/1c578552-db17-44d2-a2d6-5a7a33de8a1f" />
+
+
+
